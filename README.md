@@ -7,7 +7,7 @@ The goal is to drive progress in computer vision-based mapping using open-source
     
     
 # Set-up
-To get started, locate and run the jupyter notebook `notebooks/Aquafarm Mapping Using Pytorch.ipynb`, which goes through the whole process of training models on  aquafarm image dataset to identify aquaculture/non-aquaculture areas. 
+To get started, locate and run the jupyter notebook `notebooks/Aquafarm_Mapping_Using_Pytorch.ipynb`, which goes through the whole process of training models on  aquafarm image dataset to identify aquaculture/non-aquaculture areas. 
 
 This notebook is written to run in the cloud using Google Colab. Google Colab provides free access to computing resources including GPUs, allowing you to run the notebooks in your internet browser at no cost. To run the notebook in Colab, follow these steps:
 1. Open webpage to Google Colaboratory: https://colab.research.google.com/
@@ -24,7 +24,7 @@ If you would like to run the notebook in your local repository, clone this repos
 This dataset is publicly available, and can be  downloaded this dataset by running the notebook or direct download from [Google Drive](https://drive.google.com/file/d/1o7eWWIbEDPSgjP5CwEFi9GQsmz6cEyp1/view?usp=sharing).
 
 # Model
-We developed an image classification model that that classifies input satellite images as either aquaculture or non-aquaculture sites. The model was developed on PyTorch to employing a transfer learning approach on the Resnet18 model architecture. For more details on model training, please refer to `notebooks/Aquafarm Mapping Using Pytorch.ipynb`
+We developed an image classification model that that classifies input satellite images as either aquaculture or non-aquaculture sites. The model was developed on PyTorch to employing a transfer learning approach on the Resnet18 model architecture. For more details on model training, please refer to `notebooks/Aquafarm_Mapping Using_Pytorch.ipynb`
     
 # Citation
 
