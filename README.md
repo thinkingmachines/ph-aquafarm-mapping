@@ -1,3 +1,47 @@
+# Philippine Aquafarm Mapping
+This repository accompanies our technical note, *"Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms"*.
+    
+The goal for this project is to drive progress in computer vision-based mapping using open-source datasets which can be easily replicated and scaled to other areas in need of aquaculture mapping. 
+    
+    
+# Set-up
+To get started, locate and run the jupyter notebook `notebooks/Aquafarm Mapping Using Pytorch.ipynb`, which goes through the whole process from downloading the Aquafarm Image dataset to training and evaluating the aquafarm mapping computer vision model. 
+
+This notebook is written to run in the cloud using Google Colaboratory. To run the notebook in Colab, follow these steps
+1. Open webpage to Google Colaboratory: https://colab.research.google.com/
+2. On the top of the prompt, click `GitHub`.
+3. In the URL field, enter the URL of this repo: `https://github.com/thinkingmachines/ph-aquafarm-mapping`
+4. Click on `Aquafarm Mapping Using Pytorch.ipynb` in the search results below
+
+If you would like to run the notebook in your local repository, skip the **Mount Drive** section of the notebook and edit the local paths in **File Locations** accordingly.
+
+ 
+# Data Sources
+**Aquafarm Image dataset**: This dataset comprises 2021 annual median Sentinel-2 RGB composite images of selected areas in the Philippines. The images are classified as aquaculture or non-aquaculture and were annotated through manual visual inspection using a tagging web application. The goal of the dataset is to drive progress in computer vision-based mapping using open-source datasets which can be easily replicated and scaled in other areas in need of aquaculture mapping.
+   
+    
+# Citation
+
+Use this bibtex to cite this repository:
+ 
+ ```
+ @misc{ph_poverty_prediction_2018,
+  title={Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms in the Philippines},
+  author={Flores, Ren Avell and Cortez, Joshua and ???},
+  year={2022},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/thinkingmachines/ph-aquafarm-mapping}},
+}
+ ```
+    
+ # Acknowledgements
+ 
+
+
+
+# END HERE
+
 <div align="center">
 
 # Machine Learning Project Workflow Template
