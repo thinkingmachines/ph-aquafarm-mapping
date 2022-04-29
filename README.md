@@ -39,7 +39,7 @@ Use this bibtex to cite this repository:
  ```
  @misc{ph_poverty_prediction_2018,
   title={Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms in the Philippines},
-  author={Flores, Ren Avell and Cortez, Joshua and Nacpil, John Christian and Sy, Stephanie and Casado, Ana Plana and Klinger, Dane},
+  author={Flores, Ren Avell and Cortez, Joshua and Nacpil, John Christian and Garonita, Oshean Lee and Miclat, Jt and Araneta, Anica and Faustino, Pia and Sy, Stephanie and Klinger, Dane and Goto, Garrett and Casado, Ana Plana},
   year={2022},
   publisher={Github},
   journal={GitHub repository},
