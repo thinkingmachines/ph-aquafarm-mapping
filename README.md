@@ -25,11 +25,8 @@ To run the notebook locally, clone this repository using `git clone`. When runni
 ## Data Sources
 **Aquafarm Image dataset**: This dataset comprises 2021 annual median Sentinel-2 RGB composite images of selected areas in the Philippines. The images are classified as aquaculture or non-aquaculture and were annotated through manual visual inspection using a tagging web application. The dataset has an individual directory for aquaculture areas and another for non-aquaculture areas which contain Sentinel-2 images. It also comes with the vector polygons of 320x320 m grids used to define the boundaries of an area during the labeling process.
 
-This dataset is publicly available, and can be  downloaded this dataset by running the notebook or direct download from [Google Drive](https://drive.google.com/file/d/1o7eWWIbEDPSgjP5CwEFi9GQsmz6cEyp1/view?usp=sharing).
+This dataset is publicly available, and can be  downloaded this dataset by running the notebook or direct download from [Google Drive](https://drive.google.com/drive/folders/1lrelthAFUf1dzbC1r9DCehY8613M4jyv).
 
-
-## Model
-We developed an image classification model that that classifies input satellite images as either aquaculture or non-aquaculture sites. The model was trained using PyTorch and employs a transfer learning approach on a pretrained ResNet18 model. 
     
     
 ## Citation
@@ -47,7 +44,7 @@ Use this bibtex to cite this repository:
 }
  ```
     
-    
+  
  # Acknowledgements
  
- This work was supported by [organization]()
+ This work was supported by [Conservation International](https://conservation.org) and [Thinking Machines](https://thinkingmachin.es)
