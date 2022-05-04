@@ -1,5 +1,7 @@
 # Philippine Aquafarm Mapping
 This repository accompanies our [technical note](https://docs.google.com/document/d/1WYm-KH0TaujAS3Cw6FD8V3TNrUxQnjIwY6QUh8Ly5Ac/edit?usp=sharing), *"Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms"*.
+![image](https://user-images.githubusercontent.com/61814579/166631451-33b35e4a-949b-4593-a5b3-7bda10e26ce4.png)
+
 
 Shrimp farming industries across different countries are rapidly upscaling operations to meet the increasing demand for shrimp. However, this growth often comes at the expense of wetland ecosystems such as mangroves. As such, monitoring and mapping the continued development of aquafarms is essential in mitigating its impact in wetland ecosystems and ensuring a safe and responsible way of meeting the increasing demand for shrimp. However, on the ground monitoring of aquaculture farms can be slow and expensive, and timely information is often scarce or inaccurate.
 
