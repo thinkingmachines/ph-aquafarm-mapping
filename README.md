@@ -1,7 +1,5 @@
 # Philippine Aquafarm Mapping
-This repository accompanies our [technical note](https://docs.google.com/document/d/1WYm-KH0TaujAS3Cw6FD8V3TNrUxQnjIwY6QUh8Ly5Ac/edit?usp=sharing), *"Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms"*.
 ![image](https://user-images.githubusercontent.com/61814579/166631451-33b35e4a-949b-4593-a5b3-7bda10e26ce4.png)
-
 
 Shrimp farming industries across different countries are rapidly upscaling operations to meet the increasing demand for shrimp. However, this growth often comes at the expense of wetland ecosystems such as mangroves. As such, monitoring and mapping the continued development of aquafarms is essential in mitigating its impact in wetland ecosystems and ensuring a safe and responsible way of meeting the increasing demand for shrimp. However, on the ground monitoring of aquaculture farms can be slow and expensive, and timely information is often scarce or inaccurate.
 
@@ -10,6 +8,8 @@ Luckily, unprecedented growth in computer vision technology and open-source geos
 To this end, we developed the Aquafarm Image dataset for training a computer vision model to detect aquafarms. The dataset comprises 2021 annual median Sentinel-2  RGB images of selected areas in the Philippines, classified as aquaculture or non-aquaculture through manual visual inspection. Our goal is to drive progress in computer vision-based mapping using open-source datasets which can be easily replicated and scaled in other areas in need of aquaculture mapping.
 
 In this repo, we demonstrate how the Aquafarm Image dataset can be used to train a computer vision model to identify if an image contains aquafarms using publicly available satellite imagery. 
+
+This repository accompanies our [technical note](https://docs.google.com/document/d/1WYm-KH0TaujAS3Cw6FD8V3TNrUxQnjIwY6QUh8Ly5Ac/edit?usp=sharing), *"Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms"*.
     
     
 ## Set-up
