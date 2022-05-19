@@ -9,7 +9,7 @@ To this end, we developed the Aquafarm Image dataset for training a computer vis
 
 In this repo, we demonstrate how the Aquafarm Image dataset can be used to train a computer vision model to identify if an image contains aquafarms using publicly available satellite imagery. 
 
-This repository accompanies our [technical note](https://docs.google.com/document/d/1WYm-KH0TaujAS3Cw6FD8V3TNrUxQnjIwY6QUh8Ly5Ac/edit?usp=sharing), *"Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms"*.
+This repository accompanies our [technical note](https://docs.google.com/document/d/18AagKrEy5S44xbrNzS-tDZxN7QSeKsLc5JhYhe802I8/edit?usp=sharing), *"Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms"*.
     
     
 ## Set-up
