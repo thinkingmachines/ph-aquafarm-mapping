@@ -36,7 +36,7 @@ This dataset is publicly available, and can be  downloaded this dataset by runni
 Use this bibtex to cite this repository:
  
  ```
- @misc{ph_poverty_prediction_2018,
+ @misc{ph_aquafarm_mapping_2022,
   title={Using Computer Vision and Open Geospatial Data in Mapping Aquaculture Farms in the Philippines},
   author={Flores, Ren Avell and Cortez, Joshua and Nacpil, John Christian and Garonita, Oshean Lee and Miclat, Jt and Araneta, Anica and Faustino, Pia and Tingzon, Isabelle and Sy, Stephanie and Klinger, Dane and Goto, Garrett and Casado, Ana Plana},
   year={2022},
