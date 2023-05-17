@@ -1,0 +1,25 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ph-aquafarm-mapping
+  title: Aquafarm Land Use Mapping
+  description: Demonstrates the access and use of TMs open dataset for aquafarm mapping using Sentinel-2 and computer vision as part of the multi-phase collaboration between Conservation International and Thinking Machines
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: thinkingmachines/ph-aquafarm-mapping
+  links:
+    - url: https://thinkdatasci.slack.com/archives/C02SGDAG198
+      title: Slack - Main Channel
+      icon: chat
+    - url: http://bit.ly/immap-gdrive-2022
+      title: Documents
+      icon: docs
+    - url: https://drive.google.com/file/d/1NsWgL29o1ZFMShuq8aZQ48WFCxOComn8/view
+      title: Research Publication Draft
+      icon: docs
+  tags:
+    - geospatial
+spec:
+  type: public
+  lifecycle: maintainance
+  owner: user:rnvllflores
